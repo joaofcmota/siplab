@@ -10,6 +10,7 @@ script:
     - git config --global user.email "travis"
     - git config --global user.name "travis"
     - git clone https://$GIT_TK@github.com/joaofcmota/siplab.git
+    - cd siplab
 
     # Compile files
     - mkdocs build
