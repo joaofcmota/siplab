@@ -1,0 +1,41 @@
+body {
+    padding-top: 60px;
+    background-image: url(img/grid.png), url(img/banner.png), url(img/HWlogo.jpg);
+    background-position: left top, 95% 12%, 2% 11%;
+    background-repeat: repeat-x, no-repeat, no-repeat;
+    background-size: auto auto, Auto 20%, Auto 10%;  
+    background-clip: border-box;
+    background-attachment: fixed, local, local;
+    background-color: #f8f8f8;
+}
+
+title {
+    color: black;
+}
+
+table#t01 {
+    vertical-align: middle; 
+    width:100%;
+    margin:1em auto;
+    box-shadow: none;
+    border-collapse: collapse;
+}
+
+table#t01 td {
+    color:#678197;
+    padding:.0em 0em;
+    font-size: 18px;
+    text-align: left;
+    vertical-align: middle;  
+    border: 0;
+}
+
+img#pp {
+    width:100px;
+    vertical-align:bottom;
+    margin-bottom:-0.8em;
+}
+
+
+
+
