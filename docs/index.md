@@ -8,12 +8,6 @@ and is co-ordinated by [Prof Yves Wiaux](https://www.hw.ac.uk/schools/engineerin
 
 ## Research
 
-Within the group, there are other three main groups:
-
-* [Visionlab]()
-* [SPCOM: Signal Processing for Intelligent Systems and Communications](https://www.sml.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/signal-processing-intelligent-systems.htm)
-* [BASP: Biomedical and Astronomical Signal Processing](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm)
-
 Our expertise includes advanced image processing algorithms, statistical
 inference, optimisation theory and algorithms, machine learning, communication
 protocols, compressive sampling, inverse problems, and robotics.
@@ -22,6 +16,11 @@ The type of applications we deal with range from underwater object tracking, to
 artwork restoration, medical imaging, astronomical data analysis,
 communication systems, and satellite imaging.
 
+Within the group, there are other three main groups:
+
+* [Visionlab]()
+* [SPCOM: Signal Processing for Intelligent Systems and Communications](https://www.sml.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/signal-processing-intelligent-systems.htm)
+* [BASP: Biomedical and Astronomical Signal Processing](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm)
 
 
 ## People
