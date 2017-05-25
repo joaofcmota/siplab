@@ -72,7 +72,7 @@ Within the group, there are other three main groups:
       </p>
     </td>
     <td>
-      Multiple object tracking, PHD filtering, Bayesian methods, data fusion,
+      Multiple object tracking, filtering, Bayesian methods, data fusion,
       Monte Carlo methods
     </td>
   </tr>
