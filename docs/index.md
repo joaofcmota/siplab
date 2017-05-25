@@ -16,7 +16,7 @@ The type of applications we deal with range from underwater object tracking, to
 artwork restoration, medical imaging, astronomical data analysis,
 communication systems, and satellite imaging.
 
-Within the group, there are other three main groups:
+Within the group, there are other three groups:
 
 * [Visionlab](http://visionlab.eps.hw.ac.uk/)
 * [SPCOM: Signal Processing for Intelligent Systems and Communications](https://www.sml.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/signal-processing-intelligent-systems.htm)
