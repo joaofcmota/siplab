@@ -1,4 +1,4 @@
-# Source files for the SIPLab website at Heriot-Watt
+# Source files for the SIPLab website
 
 It uses:
 
