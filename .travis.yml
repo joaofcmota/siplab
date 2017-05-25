@@ -14,16 +14,13 @@ script:
 
     # Compile files
     - mkdocs build
-
     
     # Add .nojekyll (empty) file to tell github we aren't using jekyll
     - git checkout gh-pages 
     - touch .nojekyll 
-    - git add .nojekyll 
-    - git commit -m "add .nojekyll"
-
-      # Create branch gh-pages with the contents of _build/singlehtml
-    - git subtree split --prefix site -b gh-pages
+    - cp -R site/* .
+    - git add .
+    - git commit -m "updated website"
 
       # Force push the local gh-pages branch to the remote gh-pages
     - git push -f origin gh-pages:gh-pages
