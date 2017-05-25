@@ -10,4 +10,19 @@ script:
     - git config --global user.email "travis"
     - git config --global user.name "travis"
     - git clone https://$GIT_TK@github.com/joaofcmota/siplab.git
+
+    # Compile files
     - mkdocs build
+
+    
+    # Add .nojekyll (empty) file to tell github we aren't using jekyll
+    - git checkout gh-pages 
+    - touch .nojekyll 
+    - git add .nojekyll 
+    - git commit -m "add .nojekyll"
+
+      # Create branch gh-pages with the contents of _build/singlehtml
+    - git subtree split --prefix site -b gh-pages
+
+      # Force push the local gh-pages branch to the remote gh-pages
+    - git push -f origin gh-pages:gh-pages
