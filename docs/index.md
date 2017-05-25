@@ -30,7 +30,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="http://home.eps.hw.ac.uk/~ab226/"> 
-        <img src="../images/belyaev.jpg" alt="Alexander Belyaev" id="pp"/> 
+        <img src="images/belyaev.jpg" alt="Alexander Belyaev" id="pp"/> 
       </a> 
       <p>
         <a href="http://home.eps.hw.ac.uk/~ab226/">
@@ -47,7 +47,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="http://home.eps.hw.ac.uk/~ceeamw/andy.html">
-        <img src="../images/wallace.jpg" alt="Andrew Wallace" id="pp"/>
+        <img src="images/wallace.jpg" alt="Andrew Wallace" id="pp"/>
       </a> 
       <p>
         <a href="http://home.eps.hw.ac.uk/~ceeamw/andy.html">
@@ -64,7 +64,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="https://researchportal.hw.ac.uk/en/persons/daniel-e-clark">
-        <img src="../images/clark.jpg" alt="Daniel Clark" id="pp"/>
+        <img src="images/clark.jpg" alt="Daniel Clark" id="pp"/>
       </a> 
       <p>
         <a href="https://researchportal.hw.ac.uk/en/persons/daniel-e-clark">
@@ -80,7 +80,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="https://researchportal.hw.ac.uk/en/persons/donald-shewan-reay">
-        <img src="../images/reay.jpg" alt="Donald Reay" id="pp"/>
+        <img src="images/reay.jpg" alt="Donald Reay" id="pp"/>
       </a> 
       <p>
         <a href="https://researchportal.hw.ac.uk/en/persons/donald-shewan-reay">
@@ -95,7 +95,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="http://jmota.eps.hw.ac.uk/">
-        <img src="../images/mota.png" alt="Joao Mota" id="pp"/>
+        <img src="images/mota.png" alt="Joao Mota" id="pp"/>
       </a> 
       <p>
         <a href="http://jmota.eps.hw.ac.uk/">
@@ -112,7 +112,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown">
-        <img src="../images/brown.jpg" alt="Keith Brown" id="pp"/>
+        <img src="images/brown.jpg" alt="Keith Brown" id="pp"/>
       </a> 
       <p>
         <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown">
@@ -129,7 +129,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="https://researchportal.hw.ac.uk/en/persons/mathini-sellathurai">
-        <img src="../images/sellathurai.jpg" alt="Mathini Sellathurai" id="pp"/>
+        <img src="images/sellathurai.jpg" alt="Mathini Sellathurai" id="pp"/>
       </a> 
       <p>
         <a href="https://researchportal.hw.ac.uk/en/persons/mathini-sellathurai">
@@ -148,7 +148,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/staff-directory/stephen-mclaughlin.htm">
-        <img src="../images/mclaughlin.jpg" alt="Stephen McLaughlin" id="pp"/>
+        <img src="images/mclaughlin.jpg" alt="Stephen McLaughlin" id="pp"/>
       </a> 
       <p>
         <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/staff-directory/stephen-mclaughlin.htm">
@@ -164,7 +164,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="http://yoannaltmann.weebly.com/">
-        <img src="../images/altmann.jpg" alt="Yoann Altmann" id="pp"/>
+        <img src="images/altmann.jpg" alt="Yoann Altmann" id="pp"/>
       </a> 
       <p>
         <a href="http://yoannaltmann.weebly.com/">
@@ -180,7 +180,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/staff-directory/y_petillot.htm">
-        <img src="../images/petillot.jpg" alt="Yvan Petillot" id="pp"/>
+        <img src="images/petillot.jpg" alt="Yvan Petillot" id="pp"/>
       </a> 
       <p>
         <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/staff-directory/y_petillot.htm">
@@ -198,7 +198,7 @@ communication systems, and satellite imaging.
   <tr>
     <td width="200px">
       <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/staff-directory/yves-wiaux.htm">
-        <img src="../images/wiaux.jpeg" alt="Yves Wiaux" id="pp"/>
+        <img src="images/wiaux.jpeg" alt="Yves Wiaux" id="pp"/>
       </a> 
       <p>
         <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/staff-directory/yves-wiaux.htm">
