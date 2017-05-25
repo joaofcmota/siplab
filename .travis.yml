@@ -24,4 +24,4 @@ script:
     - git commit -m "updated website"
 
       # Force push the local gh-pages branch to the remote gh-pages
-    - git push -f origin gh-pages:gh-pages
+    - git push -f origin gh-pages
