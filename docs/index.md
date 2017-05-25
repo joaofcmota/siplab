@@ -14,7 +14,7 @@ Within the group, there are other three main groups:
 * [SPCOM: Signal Processing for Intelligent Systems and Communications](https://www.sml.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/signal-processing-intelligent-systems.htm)
 * [BASP: Biomedical and Astronomical Signal Processing](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm)
 
-Our expertise includes advanced image processing methods, statistical
+Our expertise includes advanced image processing algorithms, statistical
 inference, optimisation theory and algorithms, machine learning, communication
 protocols, compressive sampling, inverse problems, and robotics.
 
