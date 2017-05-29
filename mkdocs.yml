@@ -2,6 +2,7 @@
 site_name: SIPLab @ Heriot-Watt
 pages:
   - Signal and Image Processing Group: index.md 
+  - Yves Wiaux: yveswiaux.md
 site_author: 'Joao Mota'
 site_url: 'http://siplab.eps.hw.ac.uk'
 theme_dir: 'theme'
