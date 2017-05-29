@@ -198,6 +198,11 @@ communication systems, and satellite imaging.
           Yves Wiaux
         </a>
       </p>
+      <p>
+        <a href="yves-wiaux.md">
+          Group
+        </a>
+      </p>
     </td>
     <td>
      Compressive sampling, optimisation, and Bayesian inference for inverse imaging problems. Applications to high-resolution high-dynamic range imaging in medicine (MRI, Ultrasound), astronomy (interferometry), quantum imaging, etc.
