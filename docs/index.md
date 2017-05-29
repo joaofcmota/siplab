@@ -206,11 +206,7 @@ Within the group, there are other three groups:
       </p>
     </td>
     <td>
-      Advanced signal processing: inverse problems, sparsity, wavelet
-      techniques, compressed sensing, signal processing on the sphere;
-      biomedical imaging: data acquisition and image reconstruction in magnetic
-      resonance and ultrasound imaging; Astrophysics: imaging techniques in
-      radio and optical interferometry, cosmological data analysis
+      Compressive sampling, optimisation, and Bayesian inference for inverse imaging problems; applications ranging to medicine to astrononmy.
     </td>
   </tr>
 </table>
