@@ -206,8 +206,7 @@ Within the group, there are other three groups:
       </p>
     </td>
     <td>
-      O
-     Compressive sampling, optimisation, and Bayesian inference for inverse imaging problems. Applications to high-resolution high-dynamic range imaging in multiple fields range from medicine (MRI, Ultrasound) to astronomy (interferometry).
+     Compressive sampling, optimisation, and Bayesian inference for inverse imaging problems. Applications to high-resolution high-dynamic range imaging in medicine (MRI, Ultrasound), astronomy (interferometry), quantum imaging, etc.
     </td>
   </tr>
 </table>
