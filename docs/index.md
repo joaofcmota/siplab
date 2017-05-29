@@ -199,7 +199,7 @@ communication systems, and satellite imaging.
         </a>
       </p>
       <p>
-        <a href="yves-wiaux.md">
+        <a href="yveswiaux.md">
           Group
         </a>
       </p>
