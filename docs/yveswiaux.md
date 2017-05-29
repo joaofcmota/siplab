@@ -1,5 +1,4 @@
-BASP group
-----------
+#BASP group
 
-# Research
-# People
+## Research
+## People
