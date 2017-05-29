@@ -29,6 +29,26 @@
             "location": "/#contact", 
             "text": "Prof Yves Wiaux    Lynn Smith", 
             "title": "Contact"
+        }, 
+        {
+            "location": "/yveswiaux/", 
+            "text": "BASP group\n\n\nResearch\n\n\nPeople", 
+            "title": "Yves Wiaux"
+        }, 
+        {
+            "location": "/yveswiaux/#basp-group", 
+            "text": "", 
+            "title": "BASP group"
+        }, 
+        {
+            "location": "/yveswiaux/#research", 
+            "text": "", 
+            "title": "Research"
+        }, 
+        {
+            "location": "/yveswiaux/#people", 
+            "text": "", 
+            "title": "People"
         }
     ]
 }
